@@ -171,66 +171,66 @@
     "order": 5
   },
   {
+{
     "Id": 20,
     "courseId": 4,
     "title": "Personal Finance Foundations",
-    "videoUrl": "https://sample-videos.com/zip/10/mp4/SampleVideo_1280x720_1mb.mp4",
+    "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
     "transcript": "Building a solid financial foundation is essential for long-term success. Learn the basic principles of personal finance and how to take control of your financial future.",
     "duration": 8,
-    "order": 1
   },
   {
+{
     "Id": 21,
     "courseId": 4,
     "title": "Creating Your First Budget",
-    "videoUrl": "https://sample-videos.com/zip/10/mp4/SampleVideo_1280x720_1mb.mp4",
+    "videoUrl": "https://www.learningcontainer.com/wp-content/uploads/2020/05/sample-mp4-file.mp4",
     "transcript": "A budget is your roadmap to financial success. Learn how to create a realistic budget that works for your lifestyle and helps you achieve your financial goals.",
     "duration": 9,
-    "order": 2
   },
   {
+{
     "Id": 22,
     "courseId": 4,
     "title": "Understanding Credit and Debt",
-    "videoUrl": "https://sample-videos.com/zip/10/mp4/SampleVideo_1280x720_1mb.mp4",
+    "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4",
     "transcript": "Credit can be a powerful tool when used wisely. Learn how credit works, how to build good credit, and strategies for managing and reducing debt effectively.",
     "duration": 8,
-    "order": 3
   },
   {
+{
     "Id": 23,
     "courseId": 4,
     "title": "Building an Emergency Fund",
-    "videoUrl": "https://sample-videos.com/zip/10/mp4/SampleVideo_1280x720_1mb.mp4",
+    "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
     "transcript": "An emergency fund is your financial safety net. Learn why it's important, how much you should save, and practical strategies for building your emergency fund quickly.",
     "duration": 6,
-    "order": 4
   },
   {
+{
     "Id": 24,
     "courseId": 4,
     "title": "Introduction to Investing",
-    "videoUrl": "https://sample-videos.com/zip/10/mp4/SampleVideo_1280x720_1mb.mp4",
+    "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4",
     "transcript": "Investing is key to building long-term wealth. Learn the basics of investing, different types of investments, and how to start your investment journey with confidence.",
     "duration": 10,
-    "order": 5
   },
   {
+{
     "Id": 25,
     "courseId": 4,
     "title": "Insurance and Risk Management",
-    "videoUrl": "https://sample-videos.com/zip/10/mp4/SampleVideo_1280x720_1mb.mp4",
+    "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerFun.mp4",
     "transcript": "Insurance protects you from financial disasters. Learn about different types of insurance, how much coverage you need, and how to choose the right policies for your situation.",
     "duration": 7,
-    "order": 6
   },
   {
+{
     "Id": 26,
     "courseId": 4,
     "title": "Planning for Your Financial Future",
-    "videoUrl": "https://sample-videos.com/zip/10/mp4/SampleVideo_1280x720_1mb.mp4",
+    "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerJoyrides.mp4",
     "transcript": "Financial planning is about creating a roadmap for your future. Learn how to set financial goals, create a plan to achieve them, and adjust your strategy as your life changes.",
     "duration": 6,
-    "order": 7
   }
 ]
