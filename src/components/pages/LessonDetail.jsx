@@ -222,16 +222,33 @@ const LessonDetail = () => {
             </Button>
           </div>
           
-          {/* Transcript */}
+{/* Transcript */}
           {showTranscript && (
             <motion.div
               initial={{ opacity: 0, height: 0 }}
               animate={{ opacity: 1, height: 'auto' }}
               exit={{ opacity: 0, height: 0 }}
-              className="bg-gray-50 p-4 rounded-lg"
+              className="bg-gray-50 p-6 rounded-lg border border-gray-200"
             >
-              <h3 className="font-semibold text-gray-800 mb-2">Transcript</h3>
-              <p className="text-gray-700 leading-relaxed">{lesson.transcript}</p>
+              <div className="flex items-center mb-4">
+                <ApperIcon name="BookOpen" size={20} className="text-gray-600 mr-2" />
+                <h3 className="text-lg font-semibold text-gray-800">Lesson Transcript</h3>
+              </div>
+              <div className="prose prose-gray max-w-none">
+                <div className="text-gray-800 leading-relaxed text-base md:text-lg space-y-4">
+                  {lesson.transcript.split('.').filter(sentence => sentence.trim()).map((sentence, index) => (
+                    <p key={index} className="mb-3 text-gray-700 leading-7">
+                      {sentence.trim()}.
+                    </p>
+                  ))}
+                </div>
+              </div>
+              <div className="mt-6 pt-4 border-t border-gray-200">
+                <div className="flex items-center justify-between text-sm text-gray-500">
+                  <span>Lesson Duration: {lesson.duration} minutes</span>
+                  <span>Ready for easy reading</span>
+                </div>
+              </div>
             </motion.div>
           )}
         </div>
