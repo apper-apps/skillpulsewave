@@ -1,0 +1,42 @@
+[
+  {
+    "Id": 1,
+    "title": "Time Management Mastery",
+    "icon": "Clock",
+    "color": "#3B82F6",
+    "totalLessons": 6,
+    "duration": 45,
+    "category": "time-management",
+    "description": "Learn to manage your time effectively and boost productivity"
+  },
+  {
+    "Id": 2,
+    "title": "Effective Communication",
+    "icon": "MessageSquare",
+    "color": "#8B5CF6",
+    "totalLessons": 8,
+    "duration": 60,
+    "category": "communication",
+    "description": "Develop strong written and verbal communication skills"
+  },
+  {
+    "Id": 3,
+    "title": "Professional Body Language",
+    "icon": "Eye",
+    "color": "#10B981",
+    "totalLessons": 5,
+    "duration": 35,
+    "category": "body-language",
+    "description": "Master the art of professional body language and presence"
+  },
+  {
+    "Id": 4,
+    "title": "Personal Finance Essentials",
+    "icon": "DollarSign",
+    "color": "#F59E0B",
+    "totalLessons": 7,
+    "duration": 50,
+    "category": "finance",
+    "description": "Build a solid foundation for managing your personal finances"
+  }
+]

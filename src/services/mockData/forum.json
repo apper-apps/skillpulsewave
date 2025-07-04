@@ -1,0 +1,100 @@
+[
+  {
+    "Id": 1,
+    "userId": "user_2",
+    "category": "time-management",
+    "title": "How do you stay motivated with time blocking?",
+    "content": "I've been trying to implement time blocking for a few weeks now, but I keep finding myself getting distracted or not sticking to the schedule. Any tips for staying motivated and consistent with this technique?",
+    "upvotes": 12,
+    "replies": [
+      {
+        "id": 1,
+        "userId": "user_3",
+        "content": "I had the same issue! What helped me was starting with shorter blocks (30 minutes) and gradually increasing the duration. Also, building in small rewards after completing each block kept me motivated.",
+        "timestamp": "2024-01-14T16:45:00Z"
+      }
+    ],
+    "timestamp": "2024-01-14T09:30:00Z"
+  },
+  {
+    "Id": 2,
+    "userId": "user_4",
+    "category": "communication",
+    "title": "Overcoming fear of public speaking",
+    "content": "I have a big presentation coming up next week and I'm terrified. I've been working on my communication skills, but public speaking still makes me extremely nervous. How do you deal with presentation anxiety?",
+    "upvotes": 8,
+    "replies": [],
+    "timestamp": "2024-01-13T14:20:00Z"
+  },
+  {
+    "Id": 3,
+    "userId": "user_5",
+    "category": "success-stories",
+    "title": "Finally completed my first course!",
+    "content": "Just wanted to share that I finished the Time Management Mastery course today! The techniques I learned have already helped me become more organized and productive. The time blocking method is a game-changer. Thank you to this amazing community for the support!",
+    "upvotes": 15,
+    "replies": [
+      {
+        "id": 2,
+        "userId": "user_6",
+        "content": "Congratulations! That's awesome. I'm working through the same course right now. Which lesson did you find most helpful?",
+        "timestamp": "2024-01-13T11:15:00Z"
+      }
+    ],
+    "timestamp": "2024-01-13T10:00:00Z"
+  },
+  {
+    "Id": 4,
+    "userId": "user_7",
+    "category": "finance",
+    "title": "Best budgeting apps for beginners?",
+    "content": "I'm just starting my personal finance journey and looking for a good budgeting app. I've heard about Mint and YNAB, but there are so many options. What do you recommend for someone who's new to budgeting?",
+    "upvotes": 6,
+    "replies": [],
+    "timestamp": "2024-01-12T15:45:00Z"
+  },
+  {
+    "Id": 5,
+    "userId": "user_8",
+    "category": "body-language",
+    "title": "Improving confidence in video calls",
+    "content": "With remote work being so common, I spend a lot of time on video calls. I feel like my body language doesn't translate well through the camera. Any tips for appearing more confident and engaged during virtual meetings?",
+    "upvotes": 9,
+    "replies": [],
+    "timestamp": "2024-01-12T08:30:00Z"
+  },
+  {
+    "Id": 6,
+    "userId": "user_9",
+    "category": "questions",
+    "title": "How to balance learning with a full-time job?",
+    "content": "I'm really motivated to improve my skills, but I'm struggling to find time for learning while working full-time. How do you all manage to consistently learn new things while maintaining work-life balance?",
+    "upvotes": 11,
+    "replies": [
+      {
+        "id": 3,
+        "userId": "user_10",
+        "content": "I use my commute time for audio lessons and dedicate 15 minutes each morning to practice. Small, consistent efforts add up over time!",
+        "timestamp": "2024-01-11T18:20:00Z"
+      }
+    ],
+    "timestamp": "2024-01-11T17:00:00Z"
+  },
+  {
+    "Id": 7,
+    "userId": "user_11",
+    "category": "general",
+    "title": "Welcome new members!",
+    "content": "Hi everyone! I'm new to SkillPulse and excited to start learning. The community seems really supportive. Looking forward to connecting with you all and sharing our learning journeys together!",
+    "upvotes": 7,
+    "replies": [
+      {
+        "id": 4,
+        "userId": "user_12",
+        "content": "Welcome! You'll love it here. Don't hesitate to ask questions - everyone is super helpful.",
+        "timestamp": "2024-01-11T12:30:00Z"
+      }
+    ],
+    "timestamp": "2024-01-11T11:45:00Z"
+  }
+]

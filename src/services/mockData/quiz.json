@@ -1,0 +1,118 @@
+[
+  {
+    "Id": 1,
+    "lessonId": 1,
+    "title": "Introduction to Time Management Quiz",
+    "questions": [
+      {
+        "question": "What is the most important principle of effective time management?",
+        "options": [
+          "Working longer hours",
+          "Being busy all the time",
+          "Making conscious choices about how you spend your time",
+          "Multitasking as much as possible"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Time management is about making conscious, intentional choices about how you spend your most valuable resource - your time."
+      },
+      {
+        "question": "Which of these is NOT a benefit of good time management?",
+        "options": [
+          "Reduced stress",
+          "Increased productivity",
+          "More time for important activities",
+          "The ability to do everything at once"
+        ],
+        "correctAnswer": 3,
+        "explanation": "Good time management helps you focus on what's important, not do everything simultaneously."
+      }
+    ]
+  },
+  {
+    "Id": 2,
+    "lessonId": 2,
+    "title": "Eisenhower Matrix Quiz",
+    "questions": [
+      {
+        "question": "In the Eisenhower Matrix, which quadrant should you focus on most?",
+        "options": [
+          "Urgent and Important",
+          "Important but Not Urgent",
+          "Urgent but Not Important",
+          "Neither Urgent nor Important"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Quadrant 2 (Important but Not Urgent) is where you should spend most of your time to prevent crises and achieve long-term goals."
+      },
+      {
+        "question": "What should you do with tasks that are neither urgent nor important?",
+        "options": [
+          "Do them immediately",
+          "Schedule them for later",
+          "Delegate them",
+          "Eliminate them"
+        ],
+        "correctAnswer": 3,
+        "explanation": "Tasks that are neither urgent nor important are time-wasters and should be eliminated from your schedule."
+      }
+    ]
+  },
+  {
+    "Id": 3,
+    "lessonId": 7,
+    "title": "Communication Fundamentals Quiz",
+    "questions": [
+      {
+        "question": "What percentage of communication is non-verbal?",
+        "options": [
+          "30%",
+          "50%",
+          "70%",
+          "90%"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Studies show that approximately 70% of communication is non-verbal, including body language, tone, and facial expressions."
+      },
+      {
+        "question": "Which is the most important aspect of effective communication?",
+        "options": [
+          "Speaking loudly",
+          "Using complex vocabulary",
+          "Understanding your audience",
+          "Talking continuously"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Understanding your audience is crucial for effective communication - it helps you tailor your message appropriately."
+      }
+    ]
+  },
+  {
+    "Id": 4,
+    "lessonId": 20,
+    "title": "Personal Finance Foundations Quiz",
+    "questions": [
+      {
+        "question": "What is the first step in taking control of your personal finances?",
+        "options": [
+          "Start investing",
+          "Buy insurance",
+          "Create a budget",
+          "Pay off all debt"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Creating a budget is the foundation of personal finance - it helps you understand where your money goes and how to allocate it effectively."
+      },
+      {
+        "question": "What percentage of your income should you aim to save?",
+        "options": [
+          "5%",
+          "10%",
+          "20%",
+          "30%"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Financial experts generally recommend saving at least 20% of your income, though this can vary based on your specific situation and goals."
+      }
+    ]
+  }
+]
